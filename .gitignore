@@ -1,0 +1,25 @@
+# Build
+bin/
+obj/
+out/
+*.user
+*.rsuser
+*.suo
+
+# VS/VSCode
+.vs/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Rider
+.idea/
+
+# macOS/Windows
+.DS_Store
+Thumbs.db
+
+# Docker local (se gerar)
+*.pid
